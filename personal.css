@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500&display=swap');
+
+
+*{
+    padding: 15;
+    margin: 15;
+}
+
+
+body {
+    background-color: #F9F9F9;
+    font-family: 'Montserrat', sans-serif;
+}
+
+a {
+    color: #828282;
+    text-decoration: none;
+}
+
+a:active{
+    color: #828282;
+    text-decoration: none;
+}
+a:hover{
+   color: #4F4F4F;;
+}
+
+.head {
+    background-color: white;
+    padding: 5px 5px 5px 5px;
+    display: flex;   
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+.headd {
+    font-size: 23px;
+    margin: 20px;
+}
+
+.academy{
+    color: #4F4F4F;
+    display: flex;
+    position: relative;
+    left: 8px;
+    bottom: -1px;
+    text-transform:none;
+    font-size: 14px;
+    font-weight:300;
+}
+
+.headd{
+    color :#23356B;
+    font-weight: 500;
+}
+/* button{
+    color: grey;
+    border: none;
+    border-color: #F9F9F9;
+    font-size: 16px;
+} */
+
+/* .buttons {
+    position: relative;
+    background-color: white;
+    color: #828282;
+    border: none;
+    font-size: 16px;
+    left:750px;
+    margin-left: 15px;
+    bottom: 2px;
+} */
+
+/* button:hover{
+    color: #4F4F4F;;
+} */
+
+.DownHeader {
+    background-color: #23356B;
+}
+
+.HeaderDown {
+    position: relative;
+    background-color: #23356B;
+    height: 50px;
+    color: white;
+    border: none;
+    font-size: 14px;
+    top: 0px;
+    left:380px;
+    margin-left: 50px;
+    bottom: -30px;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+    
+}
+
+.HeaderDown:hover{
+    color: #f3f3f3;
+}
+
+.Abiturient {
+    font-size: 14px;
+    font-weight: 300;
+    padding: 62px;
+    color: #828282;
+}
+
+.imsit {
+    color :#23356B;
+    font-weight: 500;
+    font-size: 32px;
+    padding: 0px 0px 0px 62px;
+    margin: -80px 0px;
+}
+
+.Buttonimg {
+    border-radius: 50%;
+    background-color: #23356B;
+    padding: 0px 5px 0px 5px;
+    height: 40px;
+    width: 40px;
+    position: relative;
+    border: none;
+    font-size: 16px;
+    left:880px;
+    margin-left: 15px;
+    bottom: -10px;
+}
+.ButtonimgCall{
+    border-radius: 5%;
+    background-color: #23356B;
+    padding: 0px 5px 0px 5px;
+    height: 40px;
+    width: 190px;
+    position: relative;
+    border: none;
+    font-size: 16px;
+    left:600px;
+    margin-left: 15px;
+    bottom: -10px;
+    
+}
+.Texto {
+    color: white;
+    margin: -2px 5px 5px 5px;
+}
+
+.imogine{
+    margin: -30px 0px 0px 150px;
+}
+
+.Avatar {
+    background-color: white;
+    border-radius: 35px;
+    width: 23.5%;
+    margin: 150px 50px 150px 50px;
+    padding: 50px;
+}
